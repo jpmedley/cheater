@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "An offline foreign language cheat sheet.",
   "main": "gulpfile.js",
-  "dependencies": {},
+  "dependencies": {
+    "material-design-lite": "^1.1.3"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "build"
