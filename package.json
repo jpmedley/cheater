@@ -1,0 +1,25 @@
+{
+  "name": "cheater",
+  "version": "1.0.0",
+  "description": "An offline foreign language cheat sheet.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmedley/cheater.git"
+  },
+  "keywords": [
+    "travel",
+    "language"
+  ],
+  "author": "Joseph Medley <jmedley@google.com> (https://developers.google.com/web)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jpmedley/cheater/issues"
+  },
+  "homepage": "https://github.com/jpmedley/cheater#readme"
+}
