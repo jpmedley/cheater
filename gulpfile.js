@@ -1,3 +1,5 @@
+//http://support.flaticon.com/hc/en-us/articles/207248209-How-I-must-insert-the-attribution-
+
 var gulp = require('gulp');
 
 gulp.task('default', ['generate-service-worker']);
